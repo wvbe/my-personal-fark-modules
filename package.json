@@ -1,0 +1,16 @@
+{
+  "name": "fark-user-customizations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "defaultBranchInformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fark": "^1.1.3",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
